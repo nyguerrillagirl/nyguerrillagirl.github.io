@@ -1,0 +1,19 @@
+Resources:
+
+Online Resources:
+
+1. Udacity Courses
+	- HTML and CSS
+	- Git and GitHub
+	- JavaScript Bascis
+	- Intro to jQuery
+
+2. Web sites
+	- http://www.w3schools.com/
+	- http://jquery.com/
+	- http://eloquentjavascript.net/
+
+3. JavaScript Libraries Used
+
+	- http://www.tippedjs.com/ - used to provide interactivity to the page.
+	
