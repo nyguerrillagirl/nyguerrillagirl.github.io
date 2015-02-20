@@ -8,7 +8,7 @@
 var bio = {
 	"name" : "Lorraine Figueroa",
 	"role" : "Software Engineer",
-	"welcomeMessage" : "Java Developer, Learning Web Development!",
+	"welcomeMessage" : "Java Developer, Learning Professional Web Development and Data Science!",
 	"biopic" : "images/avatar03.jpg",
 	"contacts" : {
 		"mobile" : "555-555-5555",
@@ -23,7 +23,7 @@ var bio = {
 					"Over 20 years experience in C and C++ applications (video game samples)",
 					"Over 4 years experience with STS and Spring Web Application Tools",
 					"Over 15 years experience with Oracle Database Development (SQL, SQLPlus, SQLDeveloper)",
-					"Knowledge with building HTML-based web pages and applications",
+					"Knowledge in building HTML-based web pages and applications",
 					"Knowledge in using CSS to enhance web pages with style",
 					"Knowledge building web applications with JavaScript and popular libraries",
 					"R Programming for Statistical Analysis of Data",
@@ -110,10 +110,17 @@ var education = {
 			"title": "The Data Scientist’s Toolbox",
 			"date" : "12/2014",
 			"url" : "https://www.coursera.org/"
-		},{
+		},
+		{
 			"school" : "Coursera",
 			"title": "R Programming",
 			"date" : "1/2015",
+			"url" : "https://www.coursera.org/"
+		},
+		{
+			"school" : "Coursera",
+			"title": "Coding The Matrix - Linear Algebra and Python Programming",
+			"date" : "2/2015",
 			"url" : "https://www.coursera.org/"
 		},
 		{
@@ -138,6 +145,18 @@ var education = {
 			"school" : "Udacity",
 			"title": "Intro to jQuery",
 			"date" : "1/2015",
+			"url" : "https://www.udacity.com/"
+		}
+		{
+			"school" : "Udacity",
+			"title": "Object-Orienterd JavaScript",
+			"date" : "1/2015",
+			"url" : "https://www.udacity.com/"
+		}
+		{
+			"school" : "Udacity",
+			"title": "HTML Canvas - Build a web-based game",
+			"date" : "2/2015",
 			"url" : "https://www.udacity.com/"
 		}
 	],
@@ -185,7 +204,7 @@ var work = {
 	},
 	 {
 		"employer" : "Brainycode",
-		"title" : "Software Engineer",
+		"title" : "Game Development for fun!",
 		"location" : "Philadelphia, PA",
 		"dates" : "1/2010 - Present",
 		"description" : "Managing/Hosting web site to teach kids how to code"
