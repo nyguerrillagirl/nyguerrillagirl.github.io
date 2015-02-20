@@ -146,13 +146,13 @@ var education = {
 			"title": "Intro to jQuery",
 			"date" : "1/2015",
 			"url" : "https://www.udacity.com/"
-		}
+		},
 		{
 			"school" : "Udacity",
 			"title": "Object-Orienterd JavaScript",
 			"date" : "1/2015",
 			"url" : "https://www.udacity.com/"
-		}
+		},
 		{
 			"school" : "Udacity",
 			"title": "HTML Canvas - Build a web-based game",
