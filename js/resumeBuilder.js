@@ -258,7 +258,11 @@ var projects= {
 				alt: "Git Logo" }, 
 			{	src: "images/GitHub.jpg",
 				link: "https://github.com/",
-				alt: "GitHub Logo" }
+				alt: "GitHub Logo" },
+			{	src: "images/MindyVsBugs.png",
+				link: "froggerProject/index.html",
+				alt: "Frogger Clone Image" }
+
 		]
 	},
 	{
